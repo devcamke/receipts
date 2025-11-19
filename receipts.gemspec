@@ -29,5 +29,5 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_dependency "prawn", ">= 1.3.0", "< 3.0.0"
-  spec.add_dependency "prawn-table", "~> 0.2.1"
+  spec.add_dependency "prawn-table", "~> 0.2"
 end
